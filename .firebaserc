@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "fire-chat": "ang-fire-chat-a75e6"
+  },
+  "targets": {
+    "ang-fire-chat-a75e6": {
+      "hosting": {
+        "angular-chat": [
+          "ang-fire-chat-a75e6"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
